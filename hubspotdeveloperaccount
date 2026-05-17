@@ -1,0 +1,1 @@
+Under Settings → Integrations → Private Apps, create a Private App and give it scopes: crm.objects.contacts.read, crm.objects.contacts.write, crm.objects.deals.read. Copy the access token — you'll use this as your API key.
